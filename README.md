@@ -19,5 +19,4 @@ This project aims to predict whether a Near-Earth Object (NEO) is hazardous usin
 - **F1-Score (Hazardous):** 93%
 - **AUC-ROC:** 0.982
 
-## 🔧 How to Run
-1. Clone this repository:
+
